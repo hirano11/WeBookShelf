@@ -12,6 +12,9 @@
 	href="//cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css"
 	type="text/css" rel="stylesheet" />
 
+<link rel="stylesheet" type="text/css" href="/webookshelf/css/test.css">
+<script type="text/javascript" src="/webookshelf/js/test.js"></script>
+
 <style type="text/css">
 img {
 	width: 10%; /* 横幅を割合で指定 */
@@ -51,7 +54,7 @@ table tr:nth-child(odd) {
 <title>Insert title here</title>
 </head>
 <body>
-	<div>topページ</div>
+	<div class="test">topページ</div>
 <br>
 ImageURLを追加すると
 <br>
