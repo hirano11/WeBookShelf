@@ -4,3 +4,22 @@
 .test {
 	color: red;
 }
+
+
+.btn-border {
+    width:100px;
+    font-size:15px;
+    font-weight:none;
+    text-decoration:none;
+    display:inline-block;
+    vertical-align:  middle;
+    text-align:center;
+    padding:2px 0 4px;
+    background-color: #333333;
+    color: #ffffff;
+    border:none;
+}
+input[type="submit"][class="btn-border"]:hover {
+  color: #DCDCDC;
+
+}
